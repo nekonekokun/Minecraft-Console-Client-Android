@@ -1,0 +1,11 @@
+C:\Minecraft-Console-Client\Android\obj\Release\android\assets\Android.dll
+C:\Minecraft-Console-Client\Android\obj\Release\android\assets\Java.Interop.dll
+C:\Minecraft-Console-Client\Android\obj\Release\android\assets\Microsoft.CSharp.dll
+C:\Minecraft-Console-Client\Android\obj\Release\android\assets\Mono.Android.dll
+C:\Minecraft-Console-Client\Android\obj\Release\android\assets\mscorlib.dll
+C:\Minecraft-Console-Client\Android\obj\Release\android\assets\System.Core.dll
+C:\Minecraft-Console-Client\Android\obj\Release\android\assets\System.dll
+C:\Minecraft-Console-Client\Android\obj\Release\android\assets\System.Xml.dll
+C:\Minecraft-Console-Client\Android\obj\Release\android\assets\Mono.CSharp.dll
+C:\Minecraft-Console-Client\Android\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Minecraft-Console-Client\Android\obj\Release\android\assets\System.ServiceModel.Internals.dll

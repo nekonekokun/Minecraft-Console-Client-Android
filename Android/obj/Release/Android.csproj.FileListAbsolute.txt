@@ -1,0 +1,15 @@
+C:\Minecraft-Console-Client\Android\bin\Release\Android.dll
+C:\Minecraft-Console-Client\Android\bin\Release\Android.pdb
+C:\Minecraft-Console-Client\Android\obj\Release\Android.csprojResolveAssemblyReference.cache
+C:\Minecraft-Console-Client\Android\obj\Release\Android.dll
+C:\Minecraft-Console-Client\Android\obj\Release\Android.pdb
+C:\Minecraft-Console-Client\Android\obj\Release\res\layout\main.xml
+C:\Minecraft-Console-Client\Android\obj\Release\res\values\strings.xml
+C:\Minecraft-Console-Client\Android\obj\Release\res\drawable\icon.png
+C:\Minecraft-Console-Client\Android\obj\Release\R.cs.flag
+C:\Minecraft-Console-Client\Android\obj\Release\uploadflags.txt
+C:\Minecraft-Console-Client\Android\bin\Release\Android.MinecraftClient.apk
+C:\Minecraft-Console-Client\Android\bin\Release\Android.MinecraftClient-Signed.apk
+C:\Minecraft-Console-Client\Android\obj\Release\android\bin\Android.MinecraftClient.apk
+C:\Minecraft-Console-Client\Android\obj\Release\Android.dll.mdb
+C:\Minecraft-Console-Client\Android\bin\Release\Android.dll.mdb

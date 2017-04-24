@@ -1,0 +1,12 @@
+Android.MainActivity, Android;md5b458cc81312dcbd199d3a1508d254dfe.MainActivity
+Android.MainActivity, Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b458cc81312dcbd199d3a1508d254dfe.MainActivity
+Android.MainActivity;md5b458cc81312dcbd199d3a1508d254dfe.MainActivity
+android.MainActivity;md5b458cc81312dcbd199d3a1508d254dfe.MainActivity
+Android.MyEditText, Android;md5b458cc81312dcbd199d3a1508d254dfe.MyEditText
+Android.MyEditText, Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b458cc81312dcbd199d3a1508d254dfe.MyEditText
+Android.MyEditText;md5b458cc81312dcbd199d3a1508d254dfe.MyEditText
+android.MyEditText;md5b458cc81312dcbd199d3a1508d254dfe.MyEditText
+MinecraftClient.Program, Android;md5288c8dc92ef896b391d52c528447291d.Program
+MinecraftClient.Program, Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5288c8dc92ef896b391d52c528447291d.Program
+MinecraftClient.Program;md5288c8dc92ef896b391d52c528447291d.Program
+minecraftclient.Program;md5288c8dc92ef896b391d52c528447291d.Program
